@@ -13,7 +13,13 @@
       "url": "https://prends.app/mcp",
       "auth": {
         "type": "oauth2",
-        "scopes": ["profile:read", "profile:write", "members:read", "requests:read", "requests:write"]
+        "scopes": [
+          "profile:read",
+          "profile:write",
+          "members:read",
+          "requests:read",
+          "requests:write"
+        ]
       }
     }
   ]
